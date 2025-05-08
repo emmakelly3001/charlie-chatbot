@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v18/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RNDM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v18/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZORNDM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v18/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oaiQ9DM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v18/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oabQ9DM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v18/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWUBw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v18/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhHMWUBw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v18/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduh8MKUBw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v18/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKUBw.ttf) format('truetype');
+}
