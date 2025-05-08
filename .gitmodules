@@ -1,0 +1,3 @@
+[submodule "MyScraper"]
+	path = MyScraper
+	url = https://github.com/emmakelly3001/charlie-chatbot-clean.git
